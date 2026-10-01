@@ -1,6 +1,5 @@
 # AtithiVani
 
-**Website: [atithivani.com](https://atithivani.com)** · Instagram: [@atithivani](https://www.instagram.com/atithivani/)
 
 AtithiVani is a guest assistant for hotels and homestays in Darjeeling, Sikkim, Kalimpong
 and the Dooars. Guests use it on their phone in Bengali, Hindi or English, and can also
